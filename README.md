@@ -42,9 +42,9 @@ La lista de archivos que no deberás modificar son:
 
 Para que el ejercicio funcione deberás hacer la instalación de pnpm (si aún no lo tienes instalado).
 
-Puedes encontrar más información en la documentación de pnpm: https://pnpm.js.org/
+Puedes encontrar más información en la documentación de pnpm: https://pnpm.js.io/
 
-La documentación pertinente para hacer la instalación la puedes encontrar en: https://pnpm.js.org/es/installation
+La documentación pertinente para hacer la instalación la puedes encontrar en: https://pnpm.js.io/es/installation
 
 El ejercicio debe cumplir con los siguientes requisitos:
 
