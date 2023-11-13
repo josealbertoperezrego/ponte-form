@@ -2,6 +2,8 @@
 
 ## Descripción
 
+hola
+
 En este ejercicio deberás crear un formulario de logeo (login) para una página web.
 
 El diseño es el que se muestra debajo de la descripción y se encontrará también la carpeta **assets/img/mockup/mockup.png**. Está imagen NO se usará para el ejercicio.
